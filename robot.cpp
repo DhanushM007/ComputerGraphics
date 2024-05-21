@@ -60,7 +60,6 @@ void display1()
 	glVertex2i(65, 160);
 	glVertex2i(65, 160);
 	glVertex2i(80, 230);
-
 	
 	glVertex2i(240, 250);
 	glVertex2i(270, 175);
@@ -68,7 +67,6 @@ void display1()
 	glVertex2i(255, 160);
 	glVertex2i(255, 160);
 	glVertex2i(240, 230);
-
 	glEnd();
 
 	glFlush();
