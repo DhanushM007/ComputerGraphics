@@ -32,7 +32,7 @@ void linebresenhams(int x0, int y0, int xend, int yend)
 		x0 = xend;
 		y0 = yend;
 		xend = x0;
-		yend = y0;
+		
 	}
 	else
 	{
